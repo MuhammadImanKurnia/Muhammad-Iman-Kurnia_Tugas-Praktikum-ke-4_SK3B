@@ -8,7 +8,7 @@ NIM    : 09011282328044
 
 Kelas  : SK3B 
 
-1. Lihat daftar secara lengkap pada direktori aktif, 
+1. Lihat daftar secara lengkap pada direktori aktif,  belokkan tampilan standard output ke file baru.
 
    Jawab :
 
